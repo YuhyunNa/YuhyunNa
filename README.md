@@ -54,10 +54,24 @@
 <!-- Qdrant -->
 <img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="Qdrant" width="40" height="40"/>
 </p>
-
-
-
-
 <!-- Unreal -->
 <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+</p>
+
+
+<h3 align="left">Certificates:</h3>
+<p align="left">
+<!-- Machine_Learning -->
+<img src="https://github.com/YuhyunNa/YuhyunNa/assets/82826442/d72ebc90-b0a3-4f76-8e85-ae8ea59b7305" alt="Machine_Learning" width="500"/>
+<!-- Supervised_Machine_Learning -->
+<img src="https://github.com/YuhyunNa/YuhyunNa/assets/82826442/b4212420-4c1e-4b93-a319-fb57db106c1d" alt="Supervised_Machine_Learning" width="500"/>
+<!-- Advanced_Learning_Algorithms -->
+<img src="https://github.com/YuhyunNa/YuhyunNa/assets/82826442/866dade3-4246-4db8-89c9-be6cf32366b4" alt="Advanced_Learning_Algorithms" width="500"/>
+<!-- Unsupervised_Learning -->
+<img src="https://github.com/YuhyunNa/YuhyunNa/assets/82826442/551564dc-3d92-400e-9bd3-0bf75bd52f18" alt="Unsupervised_Learning" width="500"/>
+</p>
+
+<p align="left">
+<!-- Neural_Networks_and_Deep_Learning -->
+<img src="https://github.com/YuhyunNa/YuhyunNa/assets/82826442/baf76c2a-ca0b-430d-9b91-d1b77735deb1" alt="Neural_Networks_and_Deep_Learning" width="500"/>
 </p>
