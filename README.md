@@ -61,6 +61,11 @@
 
 <h3 align="left">Certificates:</h3>
 <p align="left">
+<!-- NvidiaLangChainCertificate -->
+<img src="https://github.com/user-attachments/assets/2a77e867-df26-4cc3-8d57-9c476131f73a" alt="NvidiaLangChainCertificate" width="500"/>
+</p>
+
+<p align="left">
 <!-- Machine_Learning -->
 <img src="https://github.com/YuhyunNa/YuhyunNa/assets/82826442/d72ebc90-b0a3-4f76-8e85-ae8ea59b7305" alt="Machine_Learning" width="500"/>
 <!-- Supervised_Machine_Learning -->
@@ -74,4 +79,10 @@
 <p align="left">
 <!-- Neural_Networks_and_Deep_Learning -->
 <img src="https://github.com/YuhyunNa/YuhyunNa/assets/82826442/baf76c2a-ca0b-430d-9b91-d1b77735deb1" alt="Neural_Networks_and_Deep_Learning" width="500"/>
+<!-- ImprovingDeepNeuralNetworks -->
+<img src="https://github.com/user-attachments/assets/fdf10fe0-0985-4e67-a80b-7c9c12ffa31f" alt="ImprovingDeepNeuralNetworks" width="500"/>
+<!-- StructuringMachineLearningProjects -->
+<img src="https://github.com/user-attachments/assets/45801c9d-583c-4bd3-962a-67b6763bf778" alt="StructuringMachineLearningProjects" width="500"/>
+<!-- ConvolutionalNeuralNetworks -->
+<img src="https://github.com/user-attachments/assets/2c7fb983-72dc-43fd-90d4-3d021f75e5ad" alt="ConvolutionalNeuralNetworks" width="500"/>
 </p>
