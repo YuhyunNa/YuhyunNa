@@ -66,6 +66,11 @@
 </p>
 
 <p align="left">
+<!-- GenAIwithLLM -->
+<img src="https://github.com/user-attachments/assets/a1657617-ae92-4101-a968-3e2bb7d8b5c1" alt="GenAIwithLLM" width="500"/>
+</p>
+
+<p align="left">
 <!-- Machine_Learning -->
 <img src="https://github.com/YuhyunNa/YuhyunNa/assets/82826442/d72ebc90-b0a3-4f76-8e85-ae8ea59b7305" alt="Machine_Learning" width="500"/>
 <!-- Supervised_Machine_Learning -->
@@ -78,6 +83,7 @@
 
 <p align="left">
 <!-- Deep_Learning -->
+<img src="https://github.com/user-attachments/assets/b5527a6d-1d75-4165-b2fc-920783afe64b" alt="Deep_Learning" width="500"/>
 <!-- Neural_Networks_and_Deep_Learning -->
 <img src="https://github.com/YuhyunNa/YuhyunNa/assets/82826442/baf76c2a-ca0b-430d-9b91-d1b77735deb1" alt="Neural_Networks_and_Deep_Learning" width="500"/>
 <!-- ImprovingDeepNeuralNetworks -->
@@ -86,4 +92,6 @@
 <img src="https://github.com/user-attachments/assets/45801c9d-583c-4bd3-962a-67b6763bf778" alt="StructuringMachineLearningProjects" width="500"/>
 <!-- ConvolutionalNeuralNetworks -->
 <img src="https://github.com/user-attachments/assets/2c7fb983-72dc-43fd-90d4-3d021f75e5ad" alt="ConvolutionalNeuralNetworks" width="500"/>
+<!-- SequenceModels -->
+<img src="https://github.com/user-attachments/assets/3705d7bd-80b0-4ced-8412-bd227f2e77dd" alt="SequenceModels" width="500"/>
 </p>
